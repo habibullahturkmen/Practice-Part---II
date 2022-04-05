@@ -1,3 +1,6 @@
+### Web3 Fundamentals Certificate
+<img src="./Web3 Fundamentals.png">
+
 ### Practice Part II Complete
 <img src="./Practice-Part---II.png">
 
